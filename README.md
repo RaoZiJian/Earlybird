@@ -1,2 +1,2 @@
-Earlybird
-=========
+Earlybird-RC1
+=============
